@@ -1,0 +1,16 @@
+    .purple{
+        background-color: blueviolet;
+        display:flex ;
+        justify-content: center;
+        padding: 20px;
+    }
+    .blue{
+        background-color: blue ;
+        padding: 20px;
+        margin: 20px;
+    }
+    .yellow{
+        background-color: rgb(238, 255, 0) ;
+        padding: 20px;
+        margin: 20px;
+    }
