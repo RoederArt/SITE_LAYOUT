@@ -7,13 +7,17 @@
     .blue{
         background-color: blue ;
         padding: 20px;
-        margin: 20px;
+        margin: 10px;
     }
     .yellow{
         background-color: rgb(238, 255, 0) ;
         padding: 20px;
-        margin: 20px;
+        margin: 10px;
     }
     .flex{
         display: flex;
+    }
+
+    .red{
+        padding-right: 80px;
     }
